@@ -1,0 +1,5 @@
+{
+    "title": "It Works!",
+    "subtitle": "Congratulations, you have just created your first AdonisJS app.",
+    "li1": "The route for this page is defined inside { code } file"
+}
